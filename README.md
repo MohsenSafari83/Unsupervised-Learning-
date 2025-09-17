@@ -10,12 +10,18 @@ The goal of this repo is to provide both **practical Jupyter Notebooks** with co
 
 ## 📂 Repository Structure
 ```
-unsupervised-learning
-| ├── clustering/
-│ ├── kmeans_dbscan.ipynb
+unsupervised-learning/
+│
+├── docs/
+│   ├── clustering.md              # theory & notes about clustering
+│   ├── dimensionality_reduction.md # theory & notes about PCA, KPCA, t-SNE, UMAP
+│
+├── clustering_projects/
+│   ├── Customer_Segmentation.ipynb
+│
+├── dimensionality_reduction_projects/
+│
+├── requirements.txt
+└── README.md
 
-├── dimensionality_reduction/
-│ ├── pca.ipynb
-│ ├── kernel_pca.ipynb
-│ └── t_sne_umap.ipynb
 ```
