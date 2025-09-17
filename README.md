@@ -8,7 +8,8 @@ It focuses on two main areas:
 
 The goal of this repo is to provide both **practical Jupyter Notebooks** with code and visualizations, and **educational documentation** explaining the theory behind each method.
 
-## 📂 Repository Structure\
+## 📂 Repository Structure
+```
 unsupervised-learning
 │
 ├── clustering/
@@ -18,3 +19,4 @@ unsupervised-learning
 │ ├── pca.ipynb
 │ ├── kernel_pca.ipynb
 │ └── t_sne_umap.ipynb
+```
