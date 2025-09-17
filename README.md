@@ -6,7 +6,7 @@ This repository is dedicated to **Unsupervised Learning**. The goal is to provid
 
 ##  Current Status
 - **Project stage:** Under active development.
-- **Documentation:** Theory notes and method explanations for clustering and dimensionality reduction are available in `docs/` and `notebooks/`.
+- **Documentation:** Theory notes and method explanations for clustering and dimensionality reduction are available in `docs/`
 - **Notebooks / Code:** Initial notebooks and examples exist; more practical implementations (KMeans, DBSCAN, PCA) will be added soon.
 - **Results:** Visualizations and experiment outputs will be added to `reports/figures` and linked from notebooks.
 
