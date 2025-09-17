@@ -11,8 +11,7 @@ The goal of this repo is to provide both **practical Jupyter Notebooks** with co
 ## 📂 Repository Structure
 ```
 unsupervised-learning
-│
-├── clustering/
+| ├── clustering/
 │ ├── kmeans_dbscan.ipynb
 
 ├── dimensionality_reduction/
