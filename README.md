@@ -7,7 +7,7 @@ The goal is to provide **theoretical documentation**, **educational notebooks**,
 
 ## Repository Structure
 - [docs/](docs) → Theory notes & educational notebooks  
-- [notebooks/](notebooks) → Project notebooks (experiments & results)  
+- [notebooks/](project) → Project notebooks (experiments & results)  
 - [src/](src) → Source code (modular implementations)  
 - [data/](data) → Datasets (CSV, etc.)  
 - [reports/](reports) → Figures, analysis, and results  
