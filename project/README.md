@@ -12,14 +12,14 @@ Each notebook will include:
 - Visualizations of results
 - 
 ### Elbow Method
-![Elbow Method](images/elbow.png)
+![Elbow Method](https://github.com/MohsenSafari83/Unsupervised-Learning-/blob/main/project/images/elbow.png?raw=true)
 
 ### PCA Visualization
-![PCA Clusters](images/pca_clusters.png)
+![PCA Clusters](https://github.com/MohsenSafari83/Unsupervised-Learning-/blob/main/project/images/pca_clusters.png?raw=true)
 
 ### Cluster Profiles Heatmap
-![Cluster Profiles](images/cluster_profiles_heatmap.png)
+![Cluster Profiles](https://github.com/MohsenSafari83/Unsupervised-Learning-/blob/main/project/images/cluster_profiles_heatmap.png?raw=true)
 
 ### Example Feature Barplots
-![Income by Cluster](images/bar_income.png)
-![MntWines by Cluster](images/bar_mntwines.png)
+![Income by Cluster](https://github.com/MohsenSafari83/Unsupervised-Learning-/blob/main/project/images/bar_income.png?raw=true)
+![MntWines by Cluster](https://github.com/MohsenSafari83/Unsupervised-Learning-/blob/main/project/images/bar_mntwines.png?raw=true)
