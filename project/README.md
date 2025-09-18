@@ -10,7 +10,7 @@ Each notebook will include:
 - Step-by-step code
 - Explanations
 - Visualizations of results
-
+- 
 ### Elbow Method
 ![Elbow Method](images/elbow.png)
 
@@ -20,6 +20,6 @@ Each notebook will include:
 ### Cluster Profiles Heatmap
 ![Cluster Profiles](images/cluster_profiles_heatmap.png)
 
-### Example feature barplots
+### Example Feature Barplots
 ![Income by Cluster](images/bar_income.png)
 ![MntWines by Cluster](images/bar_mntwines.png)
