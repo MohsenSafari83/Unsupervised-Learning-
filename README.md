@@ -8,5 +8,4 @@ The goal is to provide **theoretical documentation**, **educational notebooks**,
 ## Repository Structure
 - [docs/](docs) → Theory notes & educational notebooks  
 - [notebooks/](project) → Project notebooks (experiments & results)  
-
-
+- [project/](project)→ Project notebooks (experiments & results)  
