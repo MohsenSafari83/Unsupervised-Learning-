@@ -10,7 +10,7 @@ Each notebook will include:
 - Step-by-step code
 - Explanations
 - Visualizations of results
-- 
+
 ### Elbow Method
 ![Elbow Method](https://github.com/MohsenSafari83/Unsupervised-Learning-/blob/main/project/images/elbow.png?raw=true)
 
