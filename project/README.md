@@ -1,6 +1,3 @@
-# Jupyter Notebooks
-
-This folder will contain **Jupyter notebooks** for practical demonstrations.
 
 ## Planned structure
 - `clustering/` → notebooks for algorithms such as KMeans, DBSCAN
